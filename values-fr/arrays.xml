@@ -1,9 +1,9 @@
 <resources>
     <!-- App Theme Preference -->
     <string-array name="theme_entries">
-        <item>System default</item>
-        <item>Light</item>
-        <item>Dark</item>
+        <item>Système</item>
+        <item>Clair</item>
+        <item>Sombre</item>
     </string-array>
 
     <!-- Language Preference -->
@@ -14,20 +14,20 @@
     </string-array>
 
     <string-array name="root_folder_types">
-        <item>Internal storage</item>
-        <item>Custom path</item>
+        <item>Stockage interne</item>
+        <item>Chemin personnalisé</item>
     </string-array>
 
     <string-array name="apps_in_search_entries">
-        <item>All apps</item>
-        <item>User apps</item>
-        <item>System apps</item>
+        <item>Toutes les applications</item>
+        <item>Applications utilisateur</item>
+        <item>Applications système</item>
     </string-array>
 
     <string-array name="btn_control_mode_entries">
-        <item>ADB socket (Fast)</item>
-        <item>ADB binary (Stable)</item>
-        <item>ADB server (Alternative)</item>
+        <item>Socket ADB (rapide)</item>
+        <item>ADB binaire (stable)</item>
+        <item>Serveur ADB (alternative)</item>
     </string-array>
 
 </resources>
