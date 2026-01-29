@@ -164,18 +164,18 @@
     <string name="msg_vpn_warning">ADB peut ne pas fonctionner lorsque le VPN est activé.</string>
     <string name="msg_wifi_disconnected">Veuillez connecter les deux appareils au même réseau WiFi.</string>
 
-    <string name="summary_apps_in_search">%s (Openable apps only)</string>
-    <string name="summary_disable_haptic_feedback_on_release">Disable haptic feedback when releasing pressed buttons</string>
-    <string name="summary_do_not_use_back_action">App controls back action using device\'s back button if option is off.</string>
-    <string name="summary_do_not_use_volume_buttons">App controls volume actions using device\'s volume buttons if option is off.</string>
-    <string name="summary_enable_haptic_feedback">Enable haptic feedback when tapping buttons</string>
-    <string name="summary_force_stop_app_on_long_press">Force-stop favorite apps by long-clicking them.</string>
-    <string name="summary_open_source_licenses">License details for open source software</string>
-    <string name="summary_reset_adb_config">Resetting it may fix unexpected adb connection issues</string>
-    <string name="summary_use_default_adb_server_token">For testing only. Use a shared random token for better security.</string>
-    <string name="summary_use_dynamic_color">Apply colors from wallpapers to the app theme</string>
-    <string name="summary_use_physical_buttons">Use physical buttons on this device and external keyboards</string>
-    <string name="summary_use_vibrator_api_for_haptic">Use Vibrator API for haptic feedback if buttons do not perform haptic feedback</string>
+    <string name="summary_apps_in_search">%s (applications pouvant être ouvertes uniquement)</string>
+    <string name="summary_disable_haptic_feedback_on_release">Désactiver le retour haptique lorsque vous relâchez les boutons enfoncés</string>
+    <string name="summary_do_not_use_back_action">L'application contrôle l'action de retour à l'aide du bouton Retour de l'appareil si l'option est désactivée.</string>
+    <string name="summary_do_not_use_volume_buttons">L'application contrôle les actions liées au volume à l'aide des boutons de volume de l'appareil si l'option est désactivée.</string>
+    <string name="summary_enable_haptic_feedback">Activer le retour haptique lorsque vous appuyez sur les boutons</string>
+    <string name="summary_force_stop_app_on_long_press">Force l'arrêt des applications favorites en appuyant longuement dessus.</string>
+    <string name="summary_open_source_licenses">Détails des licences pour les logiciels open source</string>
+    <string name="summary_reset_adb_config">Le réinitialiser peut résoudre les problèmes de connexion adb inattendus.</string>
+    <string name="summary_use_default_adb_server_token">À des fins de test uniquement. Utilisez un jeton aléatoire partagé pour une meilleure sécurité.</string>
+    <string name="summary_use_dynamic_color">Appliquer les couleurs des fonds d'écran au thème de l'application</string>
+    <string name="summary_use_physical_buttons">Utiliser les boutons physiques de cet appareil et les claviers externes.</string>
+    <string name="summary_use_vibrator_api_for_haptic">Utiliser l'API Vibrator pour le retour haptique si les boutons ne fournissent pas de retour haptique.</string>
 
     <string name="title_acknowledgement">Acknowledgement</string>
     <string name="title_adb_server_token">ADB server token</string>
