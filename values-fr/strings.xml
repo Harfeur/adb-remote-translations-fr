@@ -60,22 +60,22 @@
     <string name="err_too_many_requests">Trop de demandes. Veuillez réessayer plus tard.</string>
     <string name="err_unexpected">Une erreur inattendue s'est produite.</string>
 
-    <string name="hint_customize_control_buttons">You can easily customize the buttons.\n\n1. Tap on the button you want to change.\n2. A list of available buttons will appear. Select the desired button to assign it.</string>
+    <string name="hint_customize_control_buttons">Vous pouvez facilement personnaliser les boutons.\n\n1. Appuyez sur le bouton que vous souhaitez modifier.\n2. Une liste des boutons disponibles s'affiche. Sélectionnez le bouton souhaité pour l'attribuer.</string>
 
-    <string name="icon_shape_circle">Circle</string>
-    <string name="icon_shape_curved_octagon">Curved octagon</string>
-    <string name="icon_shape_curved_square">Curved square</string>
-    <string name="icon_shape_curved_squircle">Curved squircle</string>
-    <string name="icon_shape_curved_squircle_2">Curved squircle 2</string>
-    <string name="icon_shape_curved_teardrop">Teardrop</string>
-    <string name="icon_shape_custom">Custom icon shape</string>
-    <string name="icon_shape_diamond">Diamond</string>
-    <string name="icon_shape_egg">Egg</string>
+    <string name="icon_shape_circle">Cercle</string>
+    <string name="icon_shape_curved_octagon">Octogone incurvé</string>
+    <string name="icon_shape_curved_square">Carré incurvé</string>
+    <string name="icon_shape_curved_squircle">Squircle incurvé</string>
+    <string name="icon_shape_curved_squircle_2">Squircle incurvé 2</string>
+    <string name="icon_shape_curved_teardrop">Goutte</string>
+    <string name="icon_shape_custom">Forme d'icône personnalisée</string>
+    <string name="icon_shape_diamond">Diamant</string>
+    <string name="icon_shape_egg">Œuf</string>
     <string name="icon_shape_ios">IOS</string>
-    <string name="icon_shape_octagon">Octagon</string>
+    <string name="icon_shape_octagon">Octogone</string>
     <string name="icon_shape_one_ui">One UI</string>
-    <string name="icon_shape_rounded_square">Rounded square</string>
-    <string name="icon_shape_sharp_square">Sharp square</string>
+    <string name="icon_shape_rounded_square">Carré arrondi</string>
+    <string name="icon_shape_sharp_square">Carré pointu</string>
 
     <string name="msg_adb_reset_guide">User\'s settings will not be deleted. Existing ADB connections will be disconnected. ADB configurations, including device and favorite app lists, will be deleted. You will need to reconnect ADB after the reset.\n\nIf the connection problem persists, please try to:\n\n- Restart/reboot this device\n- Reinstall the app\n\nIf none of these solutions work, please contact us.</string>
     <string name="msg_adb_server_token">ADB server token is a unique identifier generated once for secure device communication. To connect multiple devices to a single target, use the same token on each device by copying it manually. Default token is also available but it’s recommended to use a shared random token for better security.</string>
