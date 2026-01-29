@@ -41,24 +41,24 @@
     <string name="btn_watch">Regarder</string>
     <string name="btn_yes">Oui</string>
 
-    <string name="err_blank_fallback_root_folder">Fallback root folder is required.</string>
-    <string name="err_blank_root_folder_path">Root folder path is required.</string>
-    <string name="err_blank_username">Username is required.</string>
-    <string name="err_connection_timeout">Connection timed out. Please try again.</string>
-    <string name="err_connection_timeout_multiple_times">Connection timed out. Please ensure the IP address and port number are correct. If the issue persists, please restart/reboot this device and try again.</string>
-    <string name="err_device_unreachable">Device is unreachable. Please try again or reconnect.</string>
-    <string name="err_empty_device_name">Device name should not be empty.</string>
-    <string name="err_failed_to_connect">Failed to connect to the server.</string>
-    <string name="err_fetching_terms">Failed to connect to the server. Please visit our website directly.</string>
-    <string name="err_invalid_adb_server_token">Token is invalid.</string>
-    <string name="err_invalid_ftp_port">Port range must be between 0 to 65535 and avoid ports used by ADB Remote.</string>
-    <string name="err_invalid_ip_address">Invalid IP Address.</string>
-    <string name="err_invalid_pairing_code">Invalid pairing code.</string>
-    <string name="err_invalid_port">Invalid port.</string>
-    <string name="err_invalid_promo_code">Invalid promo code.</string>
-    <string name="err_save_screenshot_failed">Failed to save screenshot.</string>
-    <string name="err_too_many_requests">Too many requests. Please try again later.</string>
-    <string name="err_unexpected">Unexpected error occurred.</string>
+    <string name="err_blank_fallback_root_folder">Le dossier racine de secours est obligatoire.</string>
+    <string name="err_blank_root_folder_path">Le chemin d'accès au dossier racine est obligatoire.</string>
+    <string name="err_blank_username">Le nom d'utilisateur est obligatoire.</string>
+    <string name="err_connection_timeout">Délai de connexion expiré. Veuillez réessayer.</string>
+    <string name="err_connection_timeout_multiple_times">Délai de connexion expiré. Veuillez vérifier que l'adresse IP et le numéro de port sont corrects. Si le problème persiste, veuillez redémarrer/réinitialiser cet appareil et réessayer.</string>
+    <string name="err_device_unreachable">L'appareil est inaccessible. Veuillez réessayer ou vous reconnecter.</string>
+    <string name="err_empty_device_name">Le nom du périphérique ne doit pas être vide.</string>
+    <string name="err_failed_to_connect">Échec de la connexion au serveur.</string>
+    <string name="err_fetching_terms">Échec de la connexion au serveur. Veuillez visiter directement notre site Web.</string>
+    <string name="err_invalid_adb_server_token">Le jeton n'est pas valide.</string>
+    <string name="err_invalid_ftp_port">La plage de ports doit être comprise entre 0 et 65535 et éviter les ports utilisés par ADB Remote.</string>
+    <string name="err_invalid_ip_address">Adresse IP invalide.</string>
+    <string name="err_invalid_pairing_code">Code d'appairage invalide.</string>
+    <string name="err_invalid_port">Port invalide.</string>
+    <string name="err_invalid_promo_code">Code promo invalide.</string>
+    <string name="err_save_screenshot_failed">Échec de l'enregistrement de la capture d'écran.</string>
+    <string name="err_too_many_requests">Trop de demandes. Veuillez réessayer plus tard.</string>
+    <string name="err_unexpected">Une erreur inattendue s'est produite.</string>
 
     <string name="hint_customize_control_buttons">You can easily customize the buttons.\n\n1. Tap on the button you want to change.\n2. A list of available buttons will appear. Select the desired button to assign it.</string>
 
