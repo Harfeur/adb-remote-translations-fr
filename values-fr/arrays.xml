@@ -1,0 +1,33 @@
+<resources>
+    <!-- App Theme Preference -->
+    <string-array name="theme_entries">
+        <item>System default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+    <!-- Language Preference -->
+    <string-array name="language_entries">
+        <item>English</item>
+        <item>Français</item>
+        <item>Myanmar</item>
+    </string-array>
+
+    <string-array name="root_folder_types">
+        <item>Internal storage</item>
+        <item>Custom path</item>
+    </string-array>
+
+    <string-array name="apps_in_search_entries">
+        <item>All apps</item>
+        <item>User apps</item>
+        <item>System apps</item>
+    </string-array>
+
+    <string-array name="btn_control_mode_entries">
+        <item>ADB socket (Fast)</item>
+        <item>ADB binary (Stable)</item>
+        <item>ADB server (Alternative)</item>
+    </string-array>
+
+</resources>
